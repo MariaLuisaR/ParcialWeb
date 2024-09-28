@@ -1,7 +1,6 @@
 import { Routes, Route } from 'react-router-dom';
-import Robots from './componentes/robots';  // Asegúrate de importar el componente Robots
-import InicioSesion from './componentes/iniciosesion';  // Importa InicioSesion
-import Detail from './componentes/detail';
+import Robots from './componentes/robots';  
+import InicioSesion from './componentes/iniciosesion';  
 
 function App() {
   return (
@@ -9,7 +8,6 @@ function App() {
       <Routes>
         <Route path="/robots" element={<Robots />} />
         <Route path="" element={<InicioSesion />} />
-        <Route path="/robots/:robotId" element={<Detail />} /> 
       </Routes>
     </div>
   );

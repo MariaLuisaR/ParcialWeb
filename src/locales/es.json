@@ -1,0 +1,13 @@
+{
+    "table.id": "ID",
+    "table.name": "Nombre",
+    "table.model": "Modelo",
+    "table.manufacturer": "Empresa Fabricante",
+    "table.year": "Año de Fabricación",
+    "table.processingPower": "Capacidad de Procesamiento",
+    "table.additionalFeatures": "Características Adicionales",
+    "robotDetails.year":"Año de Fabricación",
+    "robotDetails.processingPower":"Capacidad de Procesamiento",
+    "robotDetails.humor":"Humor"
+  }
+  
